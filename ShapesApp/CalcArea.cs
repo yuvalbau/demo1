@@ -9,6 +9,7 @@ namespace ShapesApp
     
     class CalcArea
     {
+        //comment
        private static List<Shape> shapeList = new List<Shape>();
        private static int i;
        private  static bool loadObject=false; 
